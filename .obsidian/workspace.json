@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386.8333435058594
   },
   "right": {
     "id": "3f9080857f2c9304",
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,11 +223,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b11dd8b1e991ac53",
+  "active": "4f307642528cca43",
   "lastOpenFiles": [
+    "知识管理/AI/claude常用命令.md",
+    "知识管理/AI/MCP.md",
+    "知识管理/AI/Skills.md",
+    "知识管理/AI.md",
+    "知识管理/AI",
+    "知识管理",
+    "Apex/docDash/运维.md",
+    "Apex/未命名",
     "Apex/AutoBrowse/AutoBrowse 运维.md",
     "Apex/其他运维/服务器运维.md",
-    "Apex/docDash/运维.md",
     "Apex/其他运维",
     "copilot/copilot-conversations/agent__优化这个文档，帮我归类整理@20261104_093431.md",
     "Apex/docDash",
@@ -243,12 +250,9 @@
     "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/references",
     "copilot/skills/obsidian-markdown/LICENSE",
-    "copilot/skills/obsidian-markdown",
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-bases/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/references",
-    "copilot/skills/obsidian-bases/LICENSE",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
     "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",

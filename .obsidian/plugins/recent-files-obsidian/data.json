@@ -5,12 +5,24 @@
       "path": "Apex/其他运维/服务器运维.md"
     },
     {
-      "basename": "AutoBrowse 运维",
-      "path": "Apex/AutoBrowse/AutoBrowse 运维.md"
+      "basename": "claude常用命令",
+      "path": "知识管理/AI/claude常用命令.md"
+    },
+    {
+      "basename": "MCP",
+      "path": "知识管理/AI/MCP.md"
+    },
+    {
+      "basename": "Skills",
+      "path": "知识管理/AI/Skills.md"
     },
     {
       "basename": "运维",
       "path": "Apex/docDash/运维.md"
+    },
+    {
+      "basename": "AutoBrowse 运维",
+      "path": "Apex/AutoBrowse/AutoBrowse 运维.md"
     },
     {
       "basename": "agent__1@20261102_181633",
