@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apex/AutoBrowse/AutoBrowse 运维.md",
+                "file": "Apex/其他运维/服务器运维.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AutoBrowse 运维"
+              "title": "服务器运维"
             }
           }
         ]
@@ -186,9 +186,19 @@
               "icon": "copilot-agent",
               "title": "Copilot Agent Chat"
             }
+          },
+          {
+            "id": "b11dd8b1e991ac53",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -213,12 +223,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4f307642528cca43",
+  "active": "b11dd8b1e991ac53",
   "lastOpenFiles": [
+    "Apex/AutoBrowse/AutoBrowse 运维.md",
+    "Apex/其他运维/服务器运维.md",
+    "Apex/docDash/运维.md",
+    "Apex/其他运维",
+    "copilot/copilot-conversations/agent__优化这个文档，帮我归类整理@20261104_093431.md",
+    "Apex/docDash",
     "Apex/AutoBrowse/对接文档.md",
     "Apex/OpsMind/对接文档.md",
     "Apex/OpsMind",
-    "Apex/AutoBrowse/AutoBrowse 运维.md",
     "Apex/AutoBrowse",
     "copilot/copilot-conversations/agent__优化这个文档_，帮我归类整理@20261103_184503.md",
     "Apex",
@@ -234,10 +249,8 @@
     "copilot/skills/obsidian-bases/SKILL.md",
     "copilot/skills/obsidian-bases/references",
     "copilot/skills/obsidian-bases/LICENSE",
-    "copilot/skills/obsidian-bases",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
     "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/references",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "copilot/skills/copilot-fetch-x/SKILL.md",
     "copilot/copilot-conversations/agent__1@20261102_181633.md"

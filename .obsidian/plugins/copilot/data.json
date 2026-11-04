@@ -102,10 +102,10 @@
     "activeBackend": "opencode",
     "backends": {},
     "debugFullFrames": true,
-    "offerFeedbackCards": true,
+    "offerFeedbackCards": false,
     "notificationSound": true,
     "notificationSoundId": "piano",
-    "welcomeDismissed": false,
+    "welcomeDismissed": true,
     "skills": {
       "folder": "copilot/skills",
       "builtinPreferences": {
